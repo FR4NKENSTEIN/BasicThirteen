@@ -1,0 +1,11 @@
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.csprojAssemblyReference.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.csproj.CoreCompileInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.AssemblyInfoInputs.cache
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.AssemblyInfo.cs
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\bin\Debug\netcoreapp2.2\Thirteen.deps.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\bin\Debug\netcoreapp2.2\Thirteen.runtimeconfig.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\bin\Debug\netcoreapp2.2\Thirteen.runtimeconfig.dev.json
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\bin\Debug\netcoreapp2.2\Thirteen.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\bin\Debug\netcoreapp2.2\Thirteen.pdb
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.dll
+C:\Users\ZebraMaan\Desktop\Dojo\Csharp_stack\FundamentalsC#\Thirteen\obj\Debug\netcoreapp2.2\Thirteen.pdb
